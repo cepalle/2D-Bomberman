@@ -2,7 +2,7 @@
 name = "bomberman"
 version = "0.0.0"
 authors = ["cepalle", "jpilleux"]
-edition = "2021"
+edition = "2018"
 
 [dependencies]
 rand = "*"
