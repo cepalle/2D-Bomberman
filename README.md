@@ -13,3 +13,7 @@ TODO:
  - Game Render (Bevy)
  - Build multi platform binary
  - Static Github page presentation
+
+
+Inspiration:
+ - https://github.com/rgripper/rusty-bomber
