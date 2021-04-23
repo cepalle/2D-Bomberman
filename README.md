@@ -17,3 +17,4 @@ TODO:
 
 Inspiration:
  - https://github.com/rgripper/rusty-bomber
+ - https://github.com/mockersf/kmanb
