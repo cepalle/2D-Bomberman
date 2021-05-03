@@ -6,4 +6,11 @@ edition = "2018"
 
 [dependencies]
 rand = "*"
-bevy = "0.5"
+amethyst = "0.15.3"
+log = { version = "0.4.8", features = ["serde"] }
+
+[features]
+default = ["vulkan"]
+empty = ["amethyst/empty"]
+metal = ["amethyst/metal"]
+vulkan = ["amethyst/vulkan"]
