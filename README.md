@@ -3,6 +3,7 @@
 Local Multi players 2D Bomberman Game
 
 https://bevyengine.org/
+https://github.com/amethyst
 
 TODO:
  - Automatic server discovery
